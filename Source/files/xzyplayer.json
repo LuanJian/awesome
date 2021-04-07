@@ -1,0 +1,92 @@
+[
+  {
+    "key": "4btciy",
+    "id": 26,
+    "name": "x.鲨鱼资源",
+    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 27,
+    "key": "LYCe0z",
+    "name": "x.乐播",
+    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 28,
+    "key": "NhTLgM",
+    "name": "x.色色",
+    "api": "http://m.7777688.com/inc/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "key": "dydyOa",
+    "id": 29,
+    "name": "x.大炮资源",
+    "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 30,
+    "key": "dadizy",
+    "name": "x.大地资源",
+    "api": "https://dadiapi.com/api.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 31,
+    "key": "lajiaozy",
+    "name": "x.辣椒资源",
+    "api": "http://api.11bat.com/mac10.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 32,
+    "key": "agzy",
+    "name": "x.环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 33,
+    "key": "jiali",
+    "name": "x.佳丽资源",
+    "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
+    "download": "",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  },
+  {
+    "id": 34,
+    "key": "xhgcjym",
+    "name": "x.小黄瓜资源",
+    "api": "http://cj.xhgcjym.com/inc/api.php",
+    "download": "http://cj.xhgcjym.com/inc/apidown.php",
+    "isActive": true,
+    "group": "福利",
+    "status": "可用"
+  }
+]
