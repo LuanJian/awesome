@@ -1,30 +1,19 @@
 [
   {
-    "id": 1,
-    "key": "mahuazy",
-    "name": "麻花资源",
-    "api": "http://www.mhapi123.com/inc/ldg_api.php",
-    "download": "",
-    "jiexiUrl": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
     "key": "BB72C125E69627D9AC81F25CD53F6808",
+    "id": 1,
     "name": "麻花资源S",
     "api": "https://www.mhapi123.com/inc/api.php",
     "download": "",
     "parseApi": "",
     "isActive": true,
     "group": "导入",
-    "id": 44,
     "status": "可用"
   },
   {
     "key": "apibdzy",
     "id": 2,
-    "name": "百度资源",
+    "name": "百度云资源",
     "api": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml/",
     "download": "",
     "jiexiUrl": "https://jx.444662.cn/m3u8/?url=",
@@ -35,7 +24,7 @@
   {
     "key": "快播云",
     "id": 3,
-    "name": "快播资源",
+    "name": "快播云",
     "api": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
     "download": "",
     "jiexiUrl": "https://jx.7kjx.com/?url=",
@@ -44,19 +33,8 @@
     "status": "可用"
   },
   {
-    "key": "宅看(蓝光高清)",
-    "id": 4,
-    "name": "宅看影视",
-    "api": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "jiexiUrl": "https://jx.7kjx.com/?url=",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
     "key": "1886zy",
-    "id": 5,
+    "id": 4,
     "name": "1886 资源",
     "api": "http://cj.1886zy.co/inc/api.php",
     "download": "",
@@ -66,7 +44,7 @@
     "status": "可用"
   },
   {
-    "id": 6,
+    "id": 5,
     "key": "123ku",
     "name": "123 资源",
     "api": "http://cj.123ku2.com:12315/inc/api.php",
@@ -77,8 +55,30 @@
     "status": "可用"
   },
   {
+    "key": "7K资源",
+    "id": 6,
+    "name": "7K资源",
+    "api": "https://zy.7kjx.com/cjapi.php",
+    "download": "",
+    "jiexiUrl": "default",
+    "group": "默认",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "1717云资源网",
+    "id": 7,
+    "name": "1717云",
+    "api": "http://zy.itono.cn/inc/api.php",
+    "download": "",
+    "jiexiUrl": "https://www.1717yun.com/jiexi/?url=",
+    "group": "默认",
+    "isActive": true,
+    "status": "失效"
+  },
+  {
     "key": "天空云",
-    "id": 9,
+    "id": 8,
     "name": "天空云",
     "api": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
     "download": "",
@@ -89,7 +89,7 @@
   },
   {
     "key": "聚合云",
-    "id": 10,
+    "id": 9,
     "name": "聚合云",
     "api": "https://cj.cbi88.com/inc/api_juhem3u8s.php",
     "download": "",
@@ -100,18 +100,18 @@
   },
   {
     "key": "八戒云",
-    "id": 11,
+    "id": 10,
     "name": "八戒云",
     "api": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
     "download": "",
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
+    "status": "失效"
   },
   {
     "key": "subo988",
-    "id": 12,
+    "id": 11,
     "name": "速播资源",
     "api": "https://www.subo988.com/inc/api.php",
     "download": "",
@@ -122,7 +122,7 @@
   },
   {
     "key": "88zyw",
-    "id": 13,
+    "id": 12,
     "name": "88 影视",
     "api": "http://www.88zyw.net/inc/api.php",
     "download": "",
@@ -132,19 +132,8 @@
     "status": "可用"
   },
   {
-    "key": "E01C45766DD2184C7B909E467AA094E9",
-    "name": "OK 资源网",
-    "api": "http://cj.okzy.tv/inc/api.php",
-    "download": "http://cj.okzy.tv/inc/apidown.php",
-    "parseApi": "",
-    "isActive": true,
-    "group": "导入",
-    "id": 40,
-    "status": "可用"
-  },
-  {
     "key": "rrzy",
-    "id": 16,
+    "id": 13,
     "name": "人人资源",
     "api": "https://www.rrzyw.cc/api.php/provide/vod/from/rrm3u8/at/xml/",
     "download": "",
@@ -154,7 +143,7 @@
     "status": "可用"
   },
   {
-    "id": 17,
+    "id": 14,
     "key": "209zy",
     "name": "209 资源",
     "api": "http://cj.1156zy.com/inc/api.php",
@@ -162,116 +151,6 @@
     "jiexiUrl": "",
     "group": "默认",
     "isActive": true,
-    "status": "可用"
-  },
-  {
-    "id": 27,
-    "key": "bbkdj",
-    "name": "步步",
-    "api": "http://api.bbkdj.com/api",
-    "download": "",
-    "group": "默认",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "key": "FyxUS8",
-    "id": 30,
-    "name": "x.35资源采集",
-    "api": "http://cj.35zycj.com/inc/zyapimac.php",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "key": "4btciy",
-    "id": 31,
-    "name": "x.鲨鱼资源",
-    "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 32,
-    "key": "LYCe0z",
-    "name": "x.乐播",
-    "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 33,
-    "key": "NhTLgM",
-    "name": "x.色色",
-    "api": "http://m.7777688.com/inc/api.php",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "key": "dydyOa",
-    "id": 34,
-    "name": "x.大炮资源",
-    "api": "http://dgdy.me/api.php/provide/vod/at/xml/",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 35,
-    "key": "dadizy",
-    "name": "x.大地资源",
-    "api": "https://dadiapi.com/api.php",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 36,
-    "key": "lajiaozy",
-    "name": "x.辣椒资源",
-    "api": "http://api.11bat.com/mac10.php",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 37,
-    "key": "agzy",
-    "name": "x.环亚资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 38,
-    "key": "jiali",
-    "name": "x.佳丽资源",
-    "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-    "download": "",
-    "isActive": true,
-    "group": "福利",
-    "status": "可用"
-  },
-  {
-    "id": 39,
-    "key": "xhgcjym",
-    "name": "x.小黄瓜资源",
-    "api": "http://cj.xhgcjym.com/inc/api.php",
-    "download": "http://cj.xhgcjym.com/inc/apidown.php",
-    "isActive": true,
-    "group": "福利",
     "status": "可用"
   }
 ]
