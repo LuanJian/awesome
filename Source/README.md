@@ -4,4 +4,4 @@
   
 [阅读 3.0](https://github.com/gedoor/legado) - 小说书源的 [男频书源](http://shuyuan.miaogongzi.net/shuyuan/1617406392.json)、 [通用书源](http://no-mystery.gitee.io/shuyuan/%E5%85%A8%E7%BD%91%E9%80%9A%E7%94%A8.json)、 [精校书源](http://no-mystery.gitee.io/shuyuan/%E7%B2%BE%E6%A0%A1%E4%B9%A6%E6%BA%90%E5%90%88%E9%9B%86.json) 。
 
-[uBlock Origin](https://github.com/gorhill/uBlock) - 插件过滤规则 [视频广告](https://gitee.com/xinggsf/Adblock-Rule/raw/master/mv.txt)
+[uBlock Origin](https://github.com/gorhill/uBlock) - 插件过滤规则 [通用规则](https://raw.githubusercontent.com/LuanJian/awesome/dev/Source/files/rule.txt)、[视频广告](https://raw.githubusercontent.com/LuanJian/awesome/dev/Source/files/mv.txt) 。
