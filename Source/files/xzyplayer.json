@@ -1,7 +1,16 @@
 [
   {
-    "key": "2AC331FA46763E13615C65CA15F38691",
+    "key": "E3C173F802AFD2F18503831AE5CB91C1",
     "id": 1,
+    "name": "x.环亚资源",
+    "api": "http://wmcj8.com/inc/sapi.php",
+    "group": "福利",
+    "isActive": true,
+    "status": "可用"
+  },
+  {
+    "key": "2AC331FA46763E13615C65CA15F38691",
+    "id": 2,
     "name": "x.鲨鱼资源",
     "api": "https://shayuapi.com/api.php/provide/vod/at/xml/",
     "group": "福利",
@@ -10,7 +19,7 @@
   },
   {
     "key": "3177F92D5BCB9310624633794D5675DC",
-    "id": 2,
+    "id": 3,
     "name": "x.乐播资源",
     "api": "https://lbapi9.com/api.php/provide/vod/at/xml/",
     "group": "福利",
@@ -19,7 +28,7 @@
   },
   {
     "key": "DD31D02151BEA5A013603D99E6DA5B3B",
-    "id": 3,
+    "id": 4,
     "name": "x.色色资源",
     "api": "http://m.7777688.com/inc/api.php",
     "group": "福利",
@@ -28,28 +37,9 @@
   },
   {
     "key": "4E1EF24456B08485E7AFB4983CAB8274",
-    "id": 4,
+    "id": 5,
     "name": "x.大地资源",
     "api": "https://dadiapi.com/api.php",
-    "group": "福利",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "key": "E3C173F802AFD2F18503831AE5CB91C1",
-    "id": 5,
-    "name": "x.环亚资源",
-    "api": "http://wmcj8.com/inc/sapi.php",
-    "group": "福利",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "key": "7462551A275CB92907DC9AB230646723",
-    "id": 6,
-    "name": "x.辣椒资源",
-    "api": "http://api.11bat.com/mac10.php",
-    "download": "",
     "group": "福利",
     "isActive": true,
     "status": "可用"
@@ -69,17 +59,6 @@
     "id": 8,
     "name": "x.佳丽资源",
     "api": "https://jialiapi.com/api.php/provide/vod/at/xml/",
-    "group": "福利",
-    "isActive": true,
-    "status": "可用"
-  },
-  {
-    "key": "3177F92D5BC36FSZ624633794D5675DC",
-    "id": 9,
-    "name": "x.优果资源",
-    "api": "https://www.ugvapi.com/inc/zyapimac.php",
-    "download": "",
-    "jiexiUrl": "",
     "group": "福利",
     "isActive": true,
     "status": "可用"
